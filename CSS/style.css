@@ -124,3 +124,9 @@ body {
 .navmap-list-title-acesso { color: #000000; border-left: 4px solid #000000; }
 .navmap-list-title-recomendacoes { color: #5EC6F3; border-left: 4px solid #5EC6F3; }
 .navmap-list-title-usuario { color: #25D285; border-left: 4px solid #25D285; }
+
+.rodapePrincipal-patrocinadores {
+	margin-top: 30px;
+	background: #F2F5F7;
+	padding: 20px 0;
+}
