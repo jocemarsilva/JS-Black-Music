@@ -115,3 +115,7 @@ body {
 	padding-top: .2em;
 	padding-bottom: .2em;
 }
+
+.navmap-list-title + .rodapePrincipal-navMap-link {
+	margin-top: 0;
+}
