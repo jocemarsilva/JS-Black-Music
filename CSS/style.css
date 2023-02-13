@@ -92,3 +92,7 @@ body {
 	background-color: rgb(192, 132, 191);
 	padding-top: 20px;
 }
+
+.rodapePrincipal .subtitulo {
+	color: #FFF;
+}
