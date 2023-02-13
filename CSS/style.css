@@ -18,3 +18,8 @@ body {
 	font-size: 2em;
 	margin-bottom: 20px;
 }
+
+.cabecalhoPrincipal-titulo a {
+	text-decoration: none;
+	color: inherit;
+}
