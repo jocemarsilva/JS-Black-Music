@@ -150,3 +150,12 @@ body {
 	padding: 10px;
 }
 
+.rodapePrincipal-contatoForm-submit {
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+	background-color: #4DBA7A;
+	color: #FFF;
+	cursor: pointer;
+	
+}
+
