@@ -159,3 +159,11 @@ body {
 	
 }
 
+.rodapePrincipal-contatoForm-submit,
+.rodapePrincipal-contatoForm-emailInput {
+	outline: 0;
+	border: 1px solid #4DBA7A;
+	box-sizing: border-box;
+	font-size: 16px;
+}
+
