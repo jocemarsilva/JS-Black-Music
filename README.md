@@ -1,10 +1,9 @@
 
  # Layout do Site JS Black Music
-
-![JS___MUSIC_-_Google_Chrome_2023-02-13_11-50-12_AdobeExpress](https://user-images.githubusercontent.com/121300540/218499546-0011a6a2-cbac-425a-af56-fafafefa49f8.gif)
-
  
  
+ ![GifOficiaBlackMusic](https://user-images.githubusercontent.com/121300540/218586571-09996f16-2fbf-44f5-9cca-f0181b53fe16.gif)
+
 
 # Sobre o projeto
 #### Assista os videos dos 19 Cantores negros que fizeram história na música.
