@@ -167,3 +167,37 @@ body {
 	font-size: 16px;
 }
 
+.videoSobre {
+	background-color: #dc5e5ecb;
+	padding: 25px 0;
+
+}
+
+.videoSobre-video {
+	max-width: 100%;
+}
+
+.videoSobre .container {
+	color: #FFF;
+}
+
+.videoSobre-sobre-title {
+	font-size: 1.2em;
+	font-weight: bolder;
+}
+
+.videoSobre-sobre {
+	font-size: 1.3em;
+	line-height: 2;
+}
+
+.videoSobre-button {
+	border-radius: 8px;
+	background-color: red;
+	display: block;
+	color: #FFF;
+	border: none;
+	height: 50px;
+	font-size: .8em;
+	outline: none;
+}
