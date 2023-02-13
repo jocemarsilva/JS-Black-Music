@@ -106,3 +106,12 @@ body {
 .rodapePrincipal-navMap-link {
 	font-size: .9em;
 }
+
+.navmap-list-title {
+	font-weight: 700;
+	font-size: 1.3em;
+	margin: .9em 0;
+	padding-left: .3em;
+	padding-top: .2em;
+	padding-bottom: .2em;
+}
