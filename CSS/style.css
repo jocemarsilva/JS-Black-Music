@@ -96,3 +96,9 @@ body {
 .rodapePrincipal .subtitulo {
 	color: #FFF;
 }
+
+.rodapePrincipal-navMap-link {
+	text-decoration: none;
+	color: #FFF;
+	margin-top: 10px;
+}
