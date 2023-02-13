@@ -135,3 +135,11 @@ body {
 	margin-top: 20px;
 	text-align: center;
 }
+
+.rodapePrincipal-contatoForm label[for=email-contato] {
+	font-weight: bold;
+	font-size: 14px;
+	color: #000;
+	margin-bottom: 5px;
+	display: block;
+}
