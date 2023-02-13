@@ -35,3 +35,8 @@ body {
 
 	border-bottom: 1px solid #9799A6;
 }
+
+.conteudoPrincipal {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
