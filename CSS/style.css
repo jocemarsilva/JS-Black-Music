@@ -251,3 +251,30 @@ body {
 	}
 
 }
+
+@media(min-width: 1000px) {
+	.conteudoPrincipal-idolos-link {
+		margin: 1.333%;
+	}
+
+	.conteudoPrincipal-idolos-link:nth-child(3n) {
+		margin-right: 1.33%;
+	}
+
+	.conteudoPrincipal-idolos-link:nth-child(3n+1) {
+		margin-left: 1.333%;
+	}
+
+	.conteudoPrincipal-idolos-link:nth-child(4n) {
+		margin-right: 0;
+	}
+
+	.conteudoPrincipal-idolos-link:nth-child(4n+1) {
+		margin-left: 0;
+	}
+
+	.videoSobre-sobre {
+		margin-left: 1.5em;
+	}
+
+}
