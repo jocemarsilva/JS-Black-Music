@@ -143,3 +143,10 @@ body {
 	margin-bottom: 5px;
 	display: block;
 }
+
+.rodapePrincipal-contatoForm-emailInput {
+	border-top-left-radius: 5px;
+	border-bottom-left-radius: 5px;
+	padding: 10px;
+}
+
