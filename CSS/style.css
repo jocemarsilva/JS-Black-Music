@@ -119,3 +119,8 @@ body {
 .navmap-list-title + .rodapePrincipal-navMap-link {
 	margin-top: 0;
 }
+
+.navmap-list-title-ajuda { color: red; border-left: 4px solid red; }
+.navmap-list-title-acesso { color: #000000; border-left: 4px solid #000000; }
+.navmap-list-title-recomendacoes { color: #5EC6F3; border-left: 4px solid #5EC6F3; }
+.navmap-list-title-usuario { color: #25D285; border-left: 4px solid #25D285; }
