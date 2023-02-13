@@ -34,3 +34,8 @@
 	flex-flow: column wrap;
 	height: 800px;
 }
+
+.conteudoPrincipal-idolos {
+	display: flex;
+	flex-wrap: wrap;
+}
