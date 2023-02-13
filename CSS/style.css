@@ -204,3 +204,50 @@ body {
 .rodapePrincipal-contatoForm-legend {
 	margin-bottom: 10px;
 }
+@media(min-width: 769px) {
+
+	.container {
+		width: 85%;	
+	}
+
+	.subtitulo {
+		text-align: left;
+	}
+
+	.cabecalhoPrincipal-nav-link {
+		border-radius: 5px;
+		border: 1px solid red;
+	}
+
+	.cabecalhoPrincipal-nav-link:hover {
+		color: #FFF;
+		background-color:  darkred;
+	}
+
+	.cabecalhoPrincipal-titulo {
+		margin: 0;
+	}
+
+	.cabecalhoPrincipal-nav {
+		width: auto;
+	}
+
+	.cabecalhoPrincipal-nav-link {
+		width: auto;
+		margin: 0 0 0 10px;
+	}
+
+	.rodapePrincipal-contatoForm {
+		margin-top: 0;
+		text-align: left;
+	}
+
+	.conteudoPrincipal-idolos-link:nth-child(3n) {
+		margin-right: 0;
+	}
+
+	.conteudoPrincipal-idolos-link:nth-child(3n+1) {
+		margin-left: 0;
+	}
+
+}
