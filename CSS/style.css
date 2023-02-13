@@ -83,3 +83,7 @@ body {
 .conteudoPrincipal-idolos-link:nth-child(even) a:before {
 	background: url(../img/background1.svg) no-repeat;	
 }
+
+.conteudoPrincipal-idolos-link:nth-child(odd) a:before {
+	background: url(../img/background2.svg) no-repeat;
+}
