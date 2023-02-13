@@ -201,3 +201,6 @@ body {
 	font-size: .8em;
 	outline: none;
 }
+.rodapePrincipal-contatoForm-legend {
+	margin-bottom: 10px;
+}
