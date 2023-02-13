@@ -7,3 +7,7 @@
 .cabecalhoPrincipal-nav {
 	display: flex;
 }
+.rodapePrincipal-patrocinadores .container {
+	display: flex;
+	justify-content: space-between;
+}
