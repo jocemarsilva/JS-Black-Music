@@ -79,3 +79,7 @@ body {
 	height: 50px;
 	margin: 10px auto;
 }
+
+.conteudoPrincipal-idolos-link:nth-child(even) a:before {
+	background: url(../img/background1.svg) no-repeat;	
+}
