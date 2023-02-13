@@ -87,3 +87,8 @@ body {
 .conteudoPrincipal-idolos-link:nth-child(odd) a:before {
 	background: url(../img/background2.svg) no-repeat;
 }
+
+.rodapePrincipal {
+	background-color: rgb(192, 132, 191);
+	padding-top: 20px;
+}
