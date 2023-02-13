@@ -68,3 +68,7 @@ body {
 	top: 0;
 	left: 0;
 }
+
+.conteudoPrincipal-idolos-link:hover {
+	box-shadow: 4px 4px 4px #CCC;
+}
