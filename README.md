@@ -16,24 +16,11 @@
  - Nav
  - Form
 
- ## CSS3 com seletores: avançados:
-  - Seletor CSS de filhos
-  - Seletor CSS de descendentes
-  - Combinação de irmãos:
   
   ## CSS3 com Pseudo Classes:
   - :Houver
   - :Active
-  - First-Child
-  - Last-Child
-  - nth-Child
-  - Not
-  
-  ## CSS 3 com Pseudo Elementos:
-  - ::First-Line
-  - ::First-Letter
-  - ::Before e ::After
-
+ 
   ## FLEX BOX
   
 - display: flex
