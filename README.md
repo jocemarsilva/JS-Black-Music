@@ -6,7 +6,7 @@
 
 
 # Sobre o projeto
-#### Assista os videos dos 19 Cantores negros que fizeram história na música.
+## Assista os videos dos 19 Cantores negros que fizeram história na música.
 
  ## Html 5 com tag semântica: 
  - Header
